@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1552991108 source:f:\c_program\full_permutation\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
